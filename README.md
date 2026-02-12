@@ -5,7 +5,6 @@
 **Hypothesis:** SARS-CoV-2 infection triggers significant upregulation of immune response and interferon-stimulated genes.
 
 ## 🎯 Project Overview
-RNA-seq analysis identifying differentially expressed genes in SARS-CoV-2 infected human cells compared to mock control
 Stastistical analysis of RNA sequencing data to identify genes significantly upregulated or downregulated during SARS-CoV-2 infection.
 
 **Dataset**: GSE147507 from NCBI Gene Expression Omnibus
